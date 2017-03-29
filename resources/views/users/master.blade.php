@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>Holiday Crown | Best hotel in Dubai</title>
+<title>Motel My Lan | Best hotel in DN</title>
 
 <!-- Google fonts -->
 <link href='http://fonts.googleapis.com/css?family=Raleway:300,500,800|Old+Standard+TT' rel='stylesheet' type='text/css'>
@@ -28,8 +28,8 @@
 
 
 <!-- favicon -->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="images/logo2.png" type="image/x-icon">
+<link rel="icon" href="images/logo2.png" type="image/x-icon">
 
 <link rel="stylesheet" href="assets/style.css">
 
